@@ -19,3 +19,6 @@
 ### sub sub tittel
 
 [my work](work.md)
+
+![lady](/favorite_dog.jpg)
+Format: ![Alt Text](url)
